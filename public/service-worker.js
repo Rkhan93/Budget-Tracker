@@ -5,6 +5,7 @@ var urlsToCache = [
   "/",
   "/db.js",
   "/index.js",
+  "/index.html",
   "/manifest.webmanifest",
   "/styles.css",
   "/icons/icon-192x192.png",
